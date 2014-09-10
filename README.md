@@ -9,7 +9,7 @@ To use this repository add below Maven repository.
    <repositories>
       <repository>
          <id>Agnie repo</id>
-         <url>https://github.com/Agnie-Technologies/mvn-repo/raw/master/releases</url>
+         <url>https://github.com/Agnie-Software/mvn-repo/raw/master/releases</url>
       </repository>
    </repositories>
 ```
