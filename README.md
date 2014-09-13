@@ -1,7 +1,7 @@
 mvn-repo
 ========
 
-Maven public repository of Agnie Technologies
+Maven public repository of Agnie Media Software Pvt. Ltd.
 
 To use this repository add below Maven repository.
 
