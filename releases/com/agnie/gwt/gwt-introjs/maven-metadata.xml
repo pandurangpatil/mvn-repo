@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.agnie.gwt</groupId>
-  <artifactId>introjs</artifactId>
+  <artifactId>gwt-introjs</artifactId>
   <versioning>
     <versions>
       <version>1.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20150925121140</lastUpdated>
+    <lastUpdated>20150925121138</lastUpdated>
   </versioning>
 </metadata>
