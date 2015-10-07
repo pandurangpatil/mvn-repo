@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.agnie.gwt</groupId>
+  <artifactId>recaptcha</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20151007104003</lastUpdated>
+  </versioning>
+</metadata>
